@@ -1,1 +1,0 @@
-# wed-n-c-hoa-python
