@@ -101,3 +101,6 @@ Các trang kế thừa từ `base.html` bằng `{% extends 'base.html' %}`.
 -Nguyễn Văn Đức
 -Nguyễn Đắc Hùng 
 
+## 12. Ghi chú
+- Sử dụng SQLite để dễ chạy trên mọi máy
+- Có thể chuyển sang MySQL/PostgreSQL nếu cần
