@@ -96,11 +96,6 @@ Các trang kế thừa từ `base.html` bằng `{% extends 'base.html' %}`.
 4. Tạo đơn hàng
 5. Kiểm tra danh sách và thống kê
 
-## 11. Thành Viên
--Ngô Thái Sơn 
--Nguyễn Văn Đức
--Nguyễn Đắc Hùng 
-
 ## 12. Ghi chú
 - Sử dụng SQLite để dễ chạy trên mọi máy
 - Có thể chuyển sang MySQL/PostgreSQL nếu cần
